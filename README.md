@@ -401,29 +401,6 @@ Cobalt Strike has evolved significantly:
 
 ---
 
-  For stealth-critical operations, Havoc5 fork is now the stronger 
-  choice.
-
-  Here's my reasoning:
-
-  | Factor                       | Cobalt Strike 4.12               |
-  Havoc5 Fork                    | Winner |
-  |------------------------------|----------------------------------|----
-  --------------------------------------------------|--------|
-  | Payload evasion              | Mature sleepmask, drip loading   | 8+
-  sleep techniques, LLVM obfuscation, proxy loading | Tie    |
-  | Injection techniques         | 4 new (RtlClone, TpDirect, etc.) | 7+
-  proxy loading + ROP syscalls   | Havoc5 |
-  | C2 infrastructure protection | None built-in                    |
-  Full IDS/IPS stack             | Havoc5 |
-  | Detection of counter-ops     | Blind to blue team probing       |
-  Real-time visibility           | Havoc5 |
-  | Operator OPSEC               | Manual discipline required       |
-  Built-in monitoring/alerts     | Havoc5 |
-  | Signature exposure           | Heavily signatured               |
-  Less known, customizable       | Havoc5 |
-  | Cost                         | $3,500-$5,900/year/user          | $0
-                                 | Havoc5 |
 
 
 ## References
