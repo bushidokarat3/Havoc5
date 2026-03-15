@@ -4,7 +4,11 @@
 
 This document provides a feature-by-feature comparison between this Havoc5 fork and Cobalt Strike 4.12, the industry-standard commercial C2 framework.
 
-<img width="524" height="436" alt="image" src="https://github.com/bushidokarat3/Havoc5/blob/main/Havoc5.png?raw=true" />
+<img width="300" height="236" alt="image" src="https://github.com/bushidokarat3/Havoc5/blob/main/Havoc5.png?raw=true"/>   
+
+VS  
+
+<img width="200" height="236" alt="image" src="https://github.com/bushidokarat3/Havoc5/blob/main/Cobalt-Strike-Fortra.jpg?raw=true"/>
 
 **Comparison Date:** February 2025
 
